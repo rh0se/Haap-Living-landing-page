@@ -31,11 +31,10 @@ body {
 }
 
 
-.nav-bar {
-    max-width: 1440px;
+.nav-bar { 
     display: flex;
     align-items: center;
-    padding:65px 100px;
+    margin:65px 100px;
     gap: 52px;
 }
 
